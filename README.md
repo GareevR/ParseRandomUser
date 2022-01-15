@@ -2,7 +2,7 @@
 ParseRandomUser iOS App
 
 # Architecture
-* Modal View Presenter (MVP)
+* Model View Presenter (MVP)
 
 # Stack
 * UIKit
